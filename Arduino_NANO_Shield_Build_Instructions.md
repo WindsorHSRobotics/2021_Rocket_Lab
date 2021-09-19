@@ -56,3 +56,27 @@ ___When you go to plug in the battery pack, you need to pay attention to POLARIT
 
 ![Figure 4.2](https://github.com/WindsorHSRobotics/2021_Rocket_Lab/blob/main/Images/Figure_4.2.jpg?raw=true)
 
+### 5. Install Arduino NANO as shown, note direction of power connector, you may have to carefully bend headers to get it to fit:
+
+![Figure 5.1](https://github.com/WindsorHSRobotics/2021_Rocket_Lab/blob/main/Images/Figure_5.1.jpg?raw=true)
+
+### 6. Install the SparkFun Openlog as shown, note which side the pins plug into, and that the Openlog needs to snuggle right up to the NANO:
+
+![Figure 6.1](https://github.com/WindsorHSRobotics/2021_Rocket_Lab/blob/main/Images/Figure_6.1.jpg?raw=true)
+
+### 7. Install the barometric pressure sensor.  Note that the pins insert on the opposite side of the Openlog pins:
+
+![Figure 7.1](https://github.com/WindsorHSRobotics/2021_Rocket_Lab/blob/main/Images/Figure_7.1.jpg?raw=true)
+
+### 8. 8.	Insert the LED.  Note the “+” lead, or the longer one needs to go into the “LED +” header hole marked on the bottom side.  Also note that the LED inserts into holes 4 and 5 looking left-to-right:
+
+![Figure 8.1](https://github.com/WindsorHSRobotics/2021_Rocket_Lab/blob/main/Images/Figure_8.1.jpg?raw=true)
+
+### 9 9.	Insert SD card into SparkFun OpenLog.  Make sure gold contacts are facing UP as shown:
+
+![Figure 9.1](https://github.com/WindsorHSRobotics/2021_Rocket_Lab/blob/main/Images/Figure_9.1.jpg?raw=true)
+
+### 10 Here is the completed NANO package:
+
+![Figure 10.1](https://github.com/WindsorHSRobotics/2021_Rocket_Lab/blob/main/Images/Figure_10.1.jpg?raw=true)
+
