@@ -46,6 +46,8 @@ ___Trim leads on back side___
 
 ___Note the connector sits in the set of holes closest to the board edge.___
 
+
+
 ### 4. Carefully bend the 2 pin connector as shown:
 
 ___When you go to plug in the battery pack, you need to pay attention to POLARITY.  The “+” side of the battery is marked with the red shrink-wrap.  The “-“ side is marked with black shrink wrap.  You need to make sure the the red is plugged into “VIN2” on the board, and the black is plugged into “GND3” on the board.  If you’d like, to avoid confusion, you could put a mark on the connector with nail polish or some sort of permanent marker.  BUT BE CAREFUL WHEN YOU PLUG YOUR BATTERY PACK IN, EACH TIME!___
