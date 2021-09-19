@@ -46,9 +46,13 @@ ___Trim leads on back side___
 
 ___Note the connector sits in the set of holes closest to the board edge.___
 
-![Figure_3.1(1)](https://github.com/WindsorHSRobotics/2021_Rocket_Lab/blob/main/Images/Figure_3.1%20(1).jpg?raw=true)
+![Figure_3.1](https://github.com/WindsorHSRobotics/2021_Rocket_Lab/blob/main/Images/Figure_3.1%20(1).jpg?raw=true)
 
 ### 4. Carefully bend the 2 pin connector as shown:
 
+![Figure_4.1](https://github.com/WindsorHSRobotics/2021_Rocket_Lab/blob/main/Images/Figure_4.1%20(1).jpg?raw=true)
+
 ___When you go to plug in the battery pack, you need to pay attention to POLARITY.  The “+” side of the battery is marked with the red shrink-wrap.  The “-“ side is marked with black shrink wrap.  You need to make sure the the red is plugged into “VIN2” on the board, and the black is plugged into “GND3” on the board.  If you’d like, to avoid confusion, you could put a mark on the connector with nail polish or some sort of permanent marker.  BUT BE CAREFUL WHEN YOU PLUG YOUR BATTERY PACK IN, EACH TIME!___
+
+![Figure 4.2](https://github.com/WindsorHSRobotics/2021_Rocket_Lab/blob/main/Images/Figure_4.1.jpg?raw=true)
 
