@@ -1,6 +1,6 @@
 # 2021 Rocket Lab
 
-This lab is a collaboration between the Windsor High School (Colorado) AP Physics and Robotics Engineering classes.  The lab was written by [Matt Rhode](https://www.colorado.edu/aerospace/matt-rhode) at the University of Colorado in Boulder.  Students in Mr. Ash's AP Physics class predict height of rocket launches based on (not sure what to say here).  Students in Mr. Cline's Robotics Engineering class build the electronics systems and program the Arduino NANO microcontrollers to record altitude data for the flights.  All flights will take place at Windsor High School on October 8th.
+This lab is a collaboration between the Windsor High School (Colorado) AP Physics and Robotics Engineering classes.  The lab was written by [Matt Rhode](https://www.colorado.edu/aerospace/matt-rhode) at the University of Colorado in Boulder.  Students in Mr. Ash's AP Physics class predict height of rocket launches based on (not sure what to say here).  Students in Mr. Cline's Robotics Engineering class build the electronics systems and program the Arduino NANO microcontrollers to record altitude data for the flights.  All flights will take place at Windsor High School on October 4th, 2021.
 
 ## Materials
 
