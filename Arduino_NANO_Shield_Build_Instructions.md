@@ -72,11 +72,11 @@ ___When you go to plug in the battery pack, you need to pay attention to POLARIT
 
 ![Figure 8.1](https://github.com/WindsorHSRobotics/2021_Rocket_Lab/blob/main/Images/Figure_8.1.jpg?raw=true)
 
-### 9 9.	Insert SD card into SparkFun OpenLog.  Make sure gold contacts are facing UP as shown:
+### 9.	Insert SD card into SparkFun OpenLog.  Make sure gold contacts are facing UP as shown:
 
 ![Figure 9.1](https://github.com/WindsorHSRobotics/2021_Rocket_Lab/blob/main/Images/Figure_9.1.jpg?raw=true)
 
-### 10 Here is the completed NANO package:
+### 10. Here is the completed NANO package:
 
 ![Figure 10.1](https://github.com/WindsorHSRobotics/2021_Rocket_Lab/blob/main/Images/Figure_10.1.jpg?raw=true)
 
