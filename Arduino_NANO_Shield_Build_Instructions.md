@@ -46,7 +46,7 @@ ___Trim leads on back side___
 
 ___Note the connector sits in the set of holes closest to the board edge.___
 
-
+![Figure_3.1(1)](https://github.com/WindsorHSRobotics/2021_Rocket_Lab/blob/main/Images/Figure_3.1%20(1).jpg?raw=true)
 
 ### 4. Carefully bend the 2 pin connector as shown:
 
