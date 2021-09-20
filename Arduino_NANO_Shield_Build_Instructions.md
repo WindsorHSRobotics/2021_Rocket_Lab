@@ -14,7 +14,7 @@ ___Make Sure the Buffolo is on top.___
 
 ![Figure 1.3](https://github.com/WindsorHSRobotics/2021_Rocket_Lab/blob/main/Images/Figure_1.3.jpg?raw=true)
 
-___Note the pins that have traces You want to start on the pins that DON’T HAVE TRACES, use those to practice, then move on to the pins with traces when you are confident you can make a good joint.___
+___NOTE: The pins that have traces You want to start on the pins that DON’T HAVE TRACES, use those to practice, then move on to the pins with traces when you are confident you can make a good joint.___
 
 ![Figure 1.4](https://github.com/WindsorHSRobotics/2021_Rocket_Lab/blob/main/Images/Figure_1.4.jpg?raw=true)
 
@@ -68,7 +68,7 @@ ___When you go to plug in the battery pack, you need to pay attention to POLARIT
 
 ![Figure 7.1](https://github.com/WindsorHSRobotics/2021_Rocket_Lab/blob/main/Images/Figure_7.1.jpg?raw=true)
 
-### 8. 8.	Insert the LED.  Note the “+” lead, or the longer one needs to go into the “LED +” header hole marked on the bottom side.  Also note that the LED inserts into holes 4 and 5 looking left-to-right:
+### 8. Insert the LED.  Note the “+” lead, or the longer one needs to go into the “LED +” header hole marked on the bottom side.  Also note that the LED inserts into holes 4 and 5 looking left-to-right:
 
 ![Figure 8.1](https://github.com/WindsorHSRobotics/2021_Rocket_Lab/blob/main/Images/Figure_8.1.jpg?raw=true)
 
