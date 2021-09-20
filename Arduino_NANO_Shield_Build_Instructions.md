@@ -32,11 +32,7 @@ ___The rest of the header outlines are correct___
 
 ___Use pliers to pull leads through back side tight so resistor sits flatter:___
 
-![Figure 2.1](https://github.com/WindsorHSRobotics/2021_Rocket_Lab/blob/main/Images/Figure_2.1.jpg?raw=true)
-
-![Figure 2.2](https://github.com/WindsorHSRobotics/2021_Rocket_Lab/blob/main/Images/Figure_2.2.jpg?raw=true)
-
-![Figure 2.3](https://github.com/WindsorHSRobotics/2021_Rocket_Lab/blob/main/Images/Figure_2.3.jpg?raw=true)
+![Figure 2.1](https://github.com/WindsorHSRobotics/2021_Rocket_Lab/blob/main/Images/Figure_2.1a.jpg?raw=true)
 
 ___Trim leads on back side___
 
