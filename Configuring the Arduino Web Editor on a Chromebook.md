@@ -13,6 +13,6 @@
 
 8. Select **Arduino Nano** under board and **ATmega328P (Old Bootloader)** for the Flavour.
 
-![]()
+![](https://github.com/WindsorHSRobotics/2021_Rocket_Lab/blob/main/Images/Screenshot%202021-09-22%202.14.32%20PM.png?raw=true)
 
 10. Click "Upload" (the right arrow).
