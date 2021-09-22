@@ -17,4 +17,4 @@
 
 10. Click "Upload" (the right arrow).
 
-### You should be all set to use the NANO with your Chromebook!
+### You should be all set to use the NANO with your Chromebook! 	:rocket:
