@@ -1,4 +1,4 @@
-# Arduino NANO Shield Build Instructions
+# Arduino NANO Barometric Pressure Sensor Build Instructions
 
 The Arduino NANO is a useful microcontroller for small, power and space efficient applications.  These instructions will walk us through how to build the electronics for a borometric pressure logger to be mounted on a rocket.
 
